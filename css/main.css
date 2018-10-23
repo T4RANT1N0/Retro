@@ -1,0 +1,107 @@
+body {
+    font-family: calibri,sans-serif;
+    padding: 0;
+    margin: 0;
+    background: url(../img/phon2.jpg);
+    background-attachment: fixed; text-align: center;
+   position:relative;
+
+}
+header {
+    height: 513.3px;
+    background: url(../img/banner.jpg) no-repeat center top / cover;
+    
+    }
+.container {
+ 
+    margin: 0 auto;
+    
+}
+    .container1 {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+        margin-top: 280px;
+}
+
+.logo {
+    margin-top: 15px;
+    float:left;
+}
+
+nav {
+    float: right;
+    margin-top: 50px;
+    margin-right: 400px;
+}
+
+.menu {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.menu li {
+    float: left;
+    display: block;
+    margin: 10px;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.title {
+    font-size: 20px;
+    color: black;
+    margin-top: 280px;
+    text-align: center;
+    justify-content: center;
+    
+    
+    
+        
+}
+
+.titles__first {
+    color: white;
+    font-size: 35px;
+    text-transform: uppercase;
+    text-align: top;
+    margin-top: 70px 
+    
+}
+.services__item {
+    width: 400px;
+    float: left;
+}
+
+
+.title1 {
+    font-size: 20px;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.h3 {
+    color: darkred;
+}
+
+.block1 {
+    margin: auto;
+    
+}
+
+.block2 {
+    align-content: center;
+}  
+
+
